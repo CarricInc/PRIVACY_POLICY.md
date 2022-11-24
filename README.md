@@ -9,6 +9,7 @@ Carric does not collect any information about its usage but some information can
 
 -In game Advertising from Admob.
 
+
 2. Support
 
 If you have any questions or comments about this policy, you may email us at carric.developer@gmail.com.
