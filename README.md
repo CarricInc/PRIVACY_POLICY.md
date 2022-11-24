@@ -5,8 +5,8 @@ Carric Privacy Policy
 
 Carric does not collect any information about its usage but some information can be shared with the following third parties.
 
-Google Play Console to handle the app distribution and the beta testing.
-In game Advertising from Admob.
+-Google Play Console to handle the app distribution and the beta testing.
+-In game Advertising from Admob.
 
 2. Support
 
